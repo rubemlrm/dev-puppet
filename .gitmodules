@@ -1,0 +1,15 @@
+[submodule "modules/apache"]
+	path = modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/firewall"]
+	path = modules/firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "modules/nginx"]
+	path = modules/nginx
+	url = https://github.com/puppetlabs/puppetlabs-nginx.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/puppetlabs/puppetlabs-mysql.git
